@@ -10,6 +10,6 @@ As part of the troubleshooting process, three simulated network support tickets 
 
 ## Project Structure
 
-- `Caption1.pkt` — Cisco Packet Tracer project file containing the network topology and configurations.
-- `Lab_Documentations--Networking--Basic.pdf` — Detailed project documentation covering the network deployment, configuration, testing, and troubleshooting.
-- `Screenshots/` — Screenshots showing the network topology, connectivity testing, FTP testing, MAC address table, and interface status.
+- [`Caption1.pkt`](./Caption1.pkt) — Cisco Packet Tracer project file containing the network topology and configurations.
+- [`Lab_Documentations--Networking--Basic.pdf`](./Lab_Documentations--Networking--Basic.pdf) — Detailed project documentation covering the network deployment, configuration, testing, and troubleshooting.
+- [`Screenshots/`](./Screenshots/) — Screenshots showing the network topology, connectivity testing, FTP testing, MAC address table, and interface status.
