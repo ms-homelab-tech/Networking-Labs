@@ -8,6 +8,10 @@ Static IP addressing was configured for the network devices, and an FTP server w
 
 As part of the troubleshooting process, three simulated network support tickets were created to identify and resolve configuration issues. The troubleshooting scenarios included an incorrect network/subnet mask, an incorrect default gateway, and an administratively shut-down interface. Each issue was investigated, corrected, and tested to verify that network connectivity was restored.
 
+## Network Topology
+
+![Network Topology](./Screenshots/network-topology.png)
+
 ## Project Structure
 
 - [`Caption1.pkt`](./Caption1.pkt) — Cisco Packet Tracer project file containing the network topology and configurations.
